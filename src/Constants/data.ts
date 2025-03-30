@@ -9,4 +9,5 @@ export const libraries = [
     "TypeScript",
     "axios",
     "Framer Motion",
+    "Zod",
 ]
